@@ -1,4 +1,4 @@
-import { multiplicar, dividir } from './3-calculadoraParte2.js';
+import { multiplicar, dividir } from './3-calculadoraParte2.mjs';
 // const calculadora = require('./2-calculadoraParte1')
 
 console.log('🎅 Hola mundo desde Node.js');
